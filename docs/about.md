@@ -6,7 +6,7 @@
 
   Age: 20
 
-  📩Email: 1069270144@qq.com
+  📩Email:codergcy@aliyun.com
 
   💬WeChat: Ge20030222
   

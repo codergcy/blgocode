@@ -75,13 +75,14 @@ export default {
             { text: 'TableMarquee', link: '/notes/tableMarquee' },
           ],
         },
+        { items: [{ text: '学习Git', link: '/notes/git' }] },
         { items: [{ text: 'tips', link: '/notes/tips' }] },
       ],
       '/interview/': [
         {
           text: 'HTML',
           items: [
-            { text: 'HTML', link: '/interview/' }, // /reading/index.md
+            { text: 'HTML', link: '/interview/HTML' }, // /reading/index.md
           ],
         },
         {
@@ -98,8 +99,8 @@ export default {
     },
     socialLinks: [{ icon: 'github', link: 'https://github.com/Eclair-H' }],
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2022-present Eclair Howe',
+      message: '用心去做高质量的专业前端内容网站，欢迎 star ⭐ 让更多人发现',
+      copyright: '皖ICP备2023015239号',
     },
   },
 };
